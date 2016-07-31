@@ -1,6 +1,5 @@
-# Todo
-
-**TODO: Add description**
+[![Build
+Status](https://travis-ci.org/koleksiuk/ex_todo.svg?branch=master)](https://travis-ci.org/koleksiuk/ex_todo)
 
 ## Installation
 
