@@ -1,5 +1,5 @@
 [![Build
-Status](https://travis-ci.org/koleksiuk/ex_todo.svg?branch=master)](https://travis-ci.org/koleksiuk/ex_todo)
+Status](https://travis-ci.org/koleksiuk/ex_todo.svg?branch=master)](https://travis-ci.org/koleksiuk/ex_todo) [![Inline docs](http://inch-ci.org/github/koleksiuk/ex_todo.svg?branch=master&style=shields)](http://inch-ci.org/github/koleksiuk/ex_todo)
 
 ## Installation
 
